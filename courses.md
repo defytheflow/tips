@@ -26,6 +26,11 @@
 - The Hard Parts of Servers & Node.js
 [Course](https://frontendmasters.com/courses/servers-node-js/)
 
+## React
+
+- The Beginner's Guide to React
+[Course](https://egghead.io/courses/the-beginner-s-guide-to-react)
+
 ## OCaml
 
 - Cornell CS3110 Data Structures and Functional Programming in OCaml
