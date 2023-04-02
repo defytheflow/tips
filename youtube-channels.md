@@ -15,21 +15,39 @@
 #### TypeScript
 
 - [Matt Pocock](https://www.youtube.com/channel/UCswG6FSbgZjbWtdf_hMLaow)
+- [Andrew Burgess](https://www.youtube.com/@andrew-burgess)
+- [Theo - Ping Labs](https://www.youtube.com/c/TheoBrowne1017)
 
 #### HTML, CSS, SASS
 
 - [Coder Coder](https://www.youtube.com/c/TheCoderCoder)
 - [Kevin Powell](https://www.youtube.com/kepowob)
 
+#### Tailwind CSS
+
+- [Tailwind Labs](https://www.youtube.com/@TailwindLabs)
+- [Sam Selikoff](https://www.youtube.com/@samselikoff/playlists)
+
 #### React
 
 - [Kent C. Dodds](https://www.youtube.com/c/KentCDodds-vids) - React, Remix
-- [Jack Herrington](https://www.youtube.com/c/JackHerrington) - React, JavaScript, Redux, TypeScript
+- [Jack Herrington](https://www.youtube.com/c/JackHerrington) - React, JavaScript, Redux, TypeScript, Next.js
 - [uidotdev](https://www.youtube.com/c/uidotdev) - React, React Router
 - [Ben Awad](https://www.youtube.com/c/BenAwad97) - React, TypeScript, GraphQL, Node.js
 - [Maksim Ivanov](https://www.youtube.com/c/satansdeer1) - React, TypeScript
-- [Theo - Ping Labs](https://www.youtube.com/c/TheoBrowne1017) - React, Next.js, Prisma
+- [Sam Selikoff](https://www.youtube.com/@samselikoff/playlists) - React, Framer Motion, Tailwind CSS
+- [React Conf](https://www.youtube.com/@ReactConf-gu9cu)
+
+#### Remix
+
+- [Kent C. Dodds](https://www.youtube.com/c/KentCDodds-vids) - React, Remix
 - [Remix](https://www.youtube.com/c/Remix-Run) - React, Remix
+
+#### Next.js
+
+- [Theo - Ping Labs](https://www.youtube.com/c/TheoBrowne1017) - React, Next.js, Prisma
+- [Lee Robinson](https://www.youtube.com/@leerob) - React, Next.js
+- [Jack Herrington](https://www.youtube.com/c/JackHerrington) - React, JavaScript, Redux, TypeScript, Next.js
 
 #### Webpack
 
@@ -42,6 +60,10 @@
 ## Back end Web Development
 
 - [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering) - Databases, Servers, Proxies, Protocols, WebSockets, Network
+
+#### Networking
+
+- [Network Chuck](https://www.youtube.com/@NetworkChuck)
 
 #### Python
 
