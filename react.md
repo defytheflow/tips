@@ -28,6 +28,10 @@
 
 - [The Call Kent Podcast](https://podcasts.apple.com/ru/podcast/the-call-kent-podcast/id1584425659)
 
+### Movies
+
+- [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
+
 ## Remix
 
 ### Documentation
