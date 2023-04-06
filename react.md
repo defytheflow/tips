@@ -40,6 +40,8 @@
 
 ### Courses
 
+- Up and Running with Remix
+[egghead Course](https://egghead.io/courses/up-and-running-with-remix-b82b6bb6)
 - Remix Fundamentals
 [Frontend Masters Course](https://frontendmasters.com/courses/remix/)
 - Advanced Remix
