@@ -9,6 +9,10 @@
 - Stanford Programming Paradigms (CS107)
 [YouTube Playlist](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
 
+## Python
+
+- CS50's Introduction to Programming with Python [YouTube Playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V) and [edx Course](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
+
 ## JavaScript
 
 - Deep JavaScript Foundations, v3
