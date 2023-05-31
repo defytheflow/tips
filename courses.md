@@ -1,5 +1,18 @@
 # Courses
 
+## Accessibility
+
+- Accessibility in JavaScript Applications
+[Frontend Masters Course](https://frontendmasters.com/courses/javascript-accessibility/)
+
+## Algorithms & Data Structures
+
+- Practical Problem Solving with Algorithms
+[Frontend Masters Course](https://frontendmasters.com/courses/algorithms-practice/)
+
+- The Last Algorithms Course You'll Need
+[Frontend Masters Course](https://frontendmasters.com/courses/algorithms/)
+
 ## Computer Science
 
 - Harvard CS50 Introduction to Computer Science
@@ -8,10 +21,6 @@
 
 - Stanford Programming Paradigms (CS107)
 [YouTube Playlist](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
-
-## Python
-
-- CS50's Introduction to Programming with Python [YouTube Playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V) and [edx Course](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
 
 ## JavaScript
 
@@ -47,16 +56,23 @@
 - The Hard Parts of Servers & Node.js
 [Frontend Masters Course](https://frontendmasters.com/courses/servers-node-js/)
 
-## React
-
-- The Beginner's Guide to React
-[egghead Course](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- Networking and Streams
+[Frontend Masters Course](https://frontendmasters.com/courses/networking-streams/)
 
 ## OCaml
 
 - Cornell CS3110 Data Structures and Functional Programming in OCaml
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU) and
 [Book](https://cs3110.github.io/textbook/cover.html)
+
+## Python
+
+- CS50's Introduction to Programming with Python [YouTube Playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V) and [edx Course](https://www.edx.org/course/cs50s-introduction-to-programming-with-python)
+
+## React
+
+- The Beginner's Guide to React
+[egghead Course](https://egghead.io/courses/the-beginner-s-guide-to-react)
 
 ## Swift
 
