@@ -47,7 +47,7 @@
 - Advanced Remix
 [Frontend Masters Course](https://frontendmasters.com/courses/advanced-remix/)
 
-### Youtube Channels
+### YouTube Channels
 
 - [Kent C. Dodds](https://www.youtube.com/c/KentCDodds-vids)
 - [Remix](https://www.youtube.com/c/Remix-Run)
