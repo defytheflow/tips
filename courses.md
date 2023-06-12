@@ -13,6 +13,9 @@
 - Asynchronous Programming in JavaScript (with Rx.js Observables)
 [Frontend Masters Course](https://frontendmasters.com/courses/asynchronous-javascript/) <br/> by Jafar Husain (2015)
 
+- Advanced Asynchronous JavaScript
+[Frontend Masters Course](https://frontendmasters.com/courses/advanced-async-js/) by Javar Husain (2017)
+
 ## Algorithms & Data Structures
 
 - Practical Problem Solving with Algorithms
