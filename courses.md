@@ -33,6 +33,11 @@
 - Stanford Programming Paradigms (CS107)
 [YouTube Playlist](https://www.youtube.com/playlist?list=PL9D558D49CA734A02) (2008)
 
+## DOM
+
+- The Hard Parts of UI Development
+[Frontend Masters Course](https://frontendmasters.com/courses/hard-parts-ui-dev/) by Will Sentance
+
 ## JavaScript
 
 - Deep JavaScript Foundations, v3
