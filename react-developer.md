@@ -46,6 +46,10 @@
 
 - [React Hook Form](https://react-hook-form.com/)
 
+### Drag & Drop
+
+- [React DnD](https://react-dnd.github.io/react-dnd/about)
+
 ### Internationalization
 
 - [React Intl](https://formatjs.io/docs/react-intl/)

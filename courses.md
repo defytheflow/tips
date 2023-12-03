@@ -33,10 +33,15 @@
 - Stanford Programming Paradigms (CS107)
 [YouTube Playlist](https://www.youtube.com/playlist?list=PL9D558D49CA734A02) (2008)
 
+## Design
+
+- Design for Developers
+[Frontend Masters Course](https://frontendmasters.com/courses/design-for-developers/) by Sarah Drasner (2019)
+
 ## DOM
 
 - The Hard Parts of UI Development
-[Frontend Masters Course](https://frontendmasters.com/courses/hard-parts-ui-dev/) by Will Sentance
+[Frontend Masters Course](https://frontendmasters.com/courses/hard-parts-ui-dev/) by Will Sentance (2023)
 
 ## JavaScript
 
@@ -60,6 +65,20 @@
 
 - The Hard Parts of Object Oriented JavaScript
 [Frontend Masters Course](https://frontendmasters.com/courses/object-oriented-js/) by Will Sentance (2018)
+
+- Bare Metal JavaScript: The JavaScript Virtual Machine
+[Frontend Masters Course](https://frontendmasters.com/courses/javascript-cpu-vm/) by Miško Hevery (2023)
+
+## JavaScript Frameworks
+
+- Reactivity with SolidJS
+[Frontend Masters Course](https://frontendmasters.com/courses/reactivity-solidjs/) by Ryan Carniato (2023)
+
+- Qwik for Instant-Loading Websites & Apps
+[Frontend Masters Course](https://frontendmasters.com/courses/qwik/) by Miško Hevery (2023)
+
+- Astro for Fast Website Development
+[Frontend Masters Course](https://frontendmasters.com/courses/astro/) by Jason Lengstorf (2023)
 
 ## Node.js
 
