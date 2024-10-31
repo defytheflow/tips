@@ -128,6 +128,9 @@
 - CS50's Introduction to Databases with SQL
 [YouTube Playlist](https://youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0&si=EScJEUYpkoxarbWN) by Carter Zenke (2023)
 
+- MySQL for Developers 
+[PlanetScale Course](https://planetscale.com/learn/courses/mysql-for-developers) by Aaron Francis (2023)
+
 ## Swift
 
 - CS193p - Developing Apps for iOS
