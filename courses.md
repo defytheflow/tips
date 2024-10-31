@@ -53,6 +53,9 @@
 - The Hard Parts of UI Development
 [Frontend Masters Course](https://frontendmasters.com/courses/hard-parts-ui-dev/) by Will Sentance (2023)
 
+- Front-End System Design 
+[Frontend Masters Course](https://frontendmasters.com/courses/frontend-system-design/) by Evgenii Ray (2024)
+
 ## JavaScript
 
 - Deep JavaScript Foundations, v3
