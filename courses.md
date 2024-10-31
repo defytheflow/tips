@@ -33,10 +33,20 @@
 - Stanford Programming Paradigms (CS107)
 [YouTube Playlist](https://www.youtube.com/playlist?list=PL9D558D49CA734A02) (2008)
 
+## Cybersecurity
+
+- CS50's Introduction to Cybersecurity 
+[YouTube Playlist](https://youtube.com/playlist?list=PLhQjrBD2T383Cqo5I1oRrbC1EKRAKGKUE&si=axuKfScWe2EIzpqU) by David Malan (2023)
+
 ## Design
 
 - Design for Developers
 [Frontend Masters Course](https://frontendmasters.com/courses/design-for-developers/) by Sarah Drasner (2019)
+
+## Docker
+
+- Complete Intro to Containes, v2
+[Frontend Masters Course](https://frontendmasters.com/courses/complete-intro-containers-v2/) by Brian Holt (2024)
 
 ## DOM
 
@@ -97,6 +107,11 @@
 [YouTube Playlist](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU) and
 [Book](https://cs3110.github.io/textbook/cover.html) <br/> by Michael R. Clarkson (2021)
 
+## PHP
+
+- PHP For Beginners 
+[Laracasts Course](https://laracasts.com/series/php-for-beginners-2023-edition) by Jeffrey Way (2023)
+
 ## Python
 
 - CS50's Introduction to Programming with Python
@@ -107,6 +122,11 @@
 
 - The Beginner's Guide to React
 [egghead Course](https://egghead.io/courses/the-beginner-s-guide-to-react) by Kent C. Dodds (2017)
+
+## SQL
+
+- CS50's Introduction to Databases with SQL
+[YouTube Playlist](https://youtube.com/playlist?list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0&si=EScJEUYpkoxarbWN) by Carter Zenke (2023)
 
 ## Swift
 
