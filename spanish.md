@@ -11,3 +11,7 @@
 ## Dictionaries
 
 - [Span¡shD!ctionary.com](https://www.spanishdict.com/translation)
+
+## Podcasts
+
+- [A Zero To A Hero: Learn Spanish!](https://podcasts.apple.com/ru/podcast/a-zero-to-a-hero-learn-spanish/id1485542323)
